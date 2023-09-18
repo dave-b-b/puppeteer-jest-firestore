@@ -1,0 +1,12 @@
+## MAC files
+.DS_Store
+
+## I
+.idea/
+
+**.log
+
+## Node Modules
+node_modules
+
+.env
