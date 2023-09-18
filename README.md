@@ -14,7 +14,7 @@ This is just a webscaper setup for Puppeteer with Testing
 
 In order to get this running, first you'll have to clone this repository to your local machine.
 
-Then you'll need to create a *.env* file with your Firestore Service Account key. It needs to be in the following format for the code to work:
+Then you'll need to create a *.env* file with your Firestore Service Account key. It needs to be in the following format for the code to work and needs to be located in the root directory:
 
 `SERVICE_ACCOUNT_KEY=<Your_API_KEY>`
 
