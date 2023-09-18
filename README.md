@@ -35,6 +35,8 @@ If you want to test the controller layer of your app, then you should use the fo
 
 `npm run emulators`
 
+Within the MessagesController file, you can comment-out line 12 and uncomment line 14. This way you can hit the endpoint with Postman or curl and it will activate the function.
+
 ** You might also have to run the following command to install the emulators:
 
 `firebase init emulators`
